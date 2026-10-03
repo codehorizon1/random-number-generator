@@ -771,12 +771,6 @@ body {
   -webkit-appearance: none;
 }
 
-
-.limit-input-wrapper input[type="number"] {
-  -moz-appearance: textfield;
-}
-
-
 .set-button {
   height: 42px;
 
